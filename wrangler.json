@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "rota-ensino-api",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "c643a943-048d-4658-92aa-88e9709d51d1",
+      "database_name": "rota_ensino__lp_db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
